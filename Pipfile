@@ -9,6 +9,7 @@ scipy = "*"
 numpy = "*"
 matplotlib = "*"
 prettytable = "*"
+jupyter = "*"
 
 [dev-packages]
 
