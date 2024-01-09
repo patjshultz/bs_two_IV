@@ -1,2 +1,2 @@
 # Option based vol as a predictor of future returns
-This repository implements a simply methodology to estimate volatility of an underlying asset and tests if it is useful in predicting future returns. 
+This repository implements a simply methodology to estimate volatility of an underlying asset and tests if it is useful in predicting future returns. Rather than using an implied volatility for each option price, I estimate a single implied volatility that minimizes pricing errors in the cross-section of option prices, or allows a separate volatility for puts than calls. 
